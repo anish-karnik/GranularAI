@@ -1,1 +1,1 @@
-# GranularAI
+# GranularAI Assignment
